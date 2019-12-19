@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KP8_VersionControl", "KP8_VersionControl\KP8_VersionControl.csproj", "{D5615ED6-58B1-46F7-8A95-6967158FCE77}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "KP8VersionControlInstaller", "KP8VersionControlInstaller\KP8VersionControlInstaller.vdproj", "{2A9697F6-517C-447F-AE2C-2805B75C4028}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5615ED6-58B1-46F7-8A95-6967158FCE77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5615ED6-58B1-46F7-8A95-6967158FCE77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5615ED6-58B1-46F7-8A95-6967158FCE77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5615ED6-58B1-46F7-8A95-6967158FCE77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A9697F6-517C-447F-AE2C-2805B75C4028}.Debug|Any CPU.ActiveCfg = Debug
+		{2A9697F6-517C-447F-AE2C-2805B75C4028}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

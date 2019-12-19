@@ -1,0 +1,10 @@
+C:\Users\HIMO16099979.MLHUILLIER.000\Desktop\KP8_VersionControl\KP8_VersionControl\bin\Release\KP8_VersionControl.exe
+C:\Users\HIMO16099979.MLHUILLIER.000\Desktop\KP8_VersionControl\KP8_VersionControl\bin\Release\Newtonsoft.Json.dll
+C:\Users\HIMO16099979.MLHUILLIER.000\Desktop\KP8_VersionControl\KP8_VersionControl\bin\Release\KP8_VersionControl.exe.config
+C:\Users\HIMO16099979.MLHUILLIER.000\Desktop\KP8_VersionControl\KP8_VersionControl\bin\Release\CallRestAPI.dll
+C:\Users\HIMO16099979.MLHUILLIER.000\Desktop\KP8_VersionControl\KP8_VersionControl\bin\Release\IniFile.dll
+C:\Users\HIMO16099979.MLHUILLIER.000\Desktop\KP8_VersionControl\KP8_VersionControl\obj\Release\KP8_VersionControl.Properties.Resources.resources
+C:\Users\HIMO16099979.MLHUILLIER.000\Desktop\KP8_VersionControl\KP8_VersionControl\obj\Release\KP8_VersionControl.VersionControl.resources
+C:\Users\HIMO16099979.MLHUILLIER.000\Desktop\KP8_VersionControl\KP8_VersionControl\obj\Release\KP8_VersionControl.csproj.GenerateResource.Cache
+C:\Users\HIMO16099979.MLHUILLIER.000\Desktop\KP8_VersionControl\KP8_VersionControl\obj\Release\KP8_VersionControl.exe
+C:\Users\HIMO16099979.MLHUILLIER.000\Desktop\KP8_VersionControl\KP8_VersionControl\obj\Release\KP8_VersionControl.pdb
